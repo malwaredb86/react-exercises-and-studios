@@ -1,18 +1,17 @@
 [
-   {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
-     "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
-     ]
-   }
- ]
- 
+  {
+    "name": "Even Better Apple Pie",
+    "author": "Deb Pearlman",
+    "description": "This is an update to her 2006 apple pie recipe, with a few new tricks from the fantastic Bravetart cookbook.",
+    "website": "https://smittenkitchen.com",
+    "recipeImage": "https://i0.wp.com/farm2.staticflickr.com/1931/45412523351_f5a7ffc42f_z.jpg?resize=640%2C427&ssl=1",
+    "authorImage": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2006/06/deb-perelman-headshot-2017.jpg?w=640&ssl=1",
+    "ingredients": [
+      "apples",
+      "brown sugar",
+      "spices",
+      "tapioca flour",
+      "pie crust"
+    ]
+  }
+]
