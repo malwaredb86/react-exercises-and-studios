@@ -1,0 +1,34 @@
+{
+    "projects": [
+        {
+            "name": "Northern Lights",
+            "designer": "Tanya Mironowa",
+            "photoURL": "https://mymodernmet.com/wp/wp-content/uploads/2021/09/tanya-mironowa-northern-lights-embroidery-8.jpeg",
+            "alt": "Stitched design of the Northern Lights over a mountain"
+        },
+        {
+            "name": "Mixed Berry Lattice Pie",
+            "designer": "VirgoThreads",
+            "photoURL": "https://i.etsystatic.com/17869367/r/il/7b7602/4438964514/il_1588xN.4438964514_kuy8.jpg",
+            "alt": "Stitched design of mixed berry pie with lattice crust"
+        },
+        {
+            "name": "Maximalist Alphabet Sampler",
+            "designer": "DropclothSamplers",
+            "photoURL": "https://i.etsystatic.com/5933255/r/il/35a721/2300358163/il_1588xN.2300358163_9ltc.jpg",
+            "alt": "Stitched design of an alphabet using many different colors and stitches"
+        },
+        {
+            "name": "Coral Reef: a Fish Eye View",
+            "designer": "SewnbyColletteKinley",
+            "photoURL": "https://i.etsystatic.com/8663823/r/il/7691d0/3633552919/il_1588xN.3633552919_om2f.jpg",
+            "alt": "Stitched design of a coral reef from a top down perspective"
+        },
+        {
+            "name": "Panic Party Possum",
+            "designer": "TheArtfulPossum",
+            "photoURL": "https://i.etsystatic.com/iap/00dd26/5122349754/iap_640x640.5122349754_205ugyrq.jpg?version=0",
+            "alt": "Stitched design of a screaming possum under a sparkly disco ball"
+        }
+    ]
+}
