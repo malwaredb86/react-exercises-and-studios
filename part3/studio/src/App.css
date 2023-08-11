@@ -32,6 +32,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
@@ -44,4 +45,12 @@
 
 .imageUpdates {
   object-fit: contain;
+}
+
+#authorphoto {
+  width: 400px;
+}
+
+#pie {
+  width: 300px;
 }
